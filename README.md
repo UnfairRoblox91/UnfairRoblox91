@@ -1,4 +1,4 @@
-<h1 align="center">Hi im unfair<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
+<h1 align="center">Hi im unfair<img width="30"> </h1>
 
 Im pretty cool haha
 
