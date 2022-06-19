@@ -23,7 +23,7 @@
 <p>
 <h3 align="left">Socials:</h3>
 <p align="left">
-  <a href="im lazy to put here lol" target="_blank">
+  <a href="https://discord.com/channels/869855703676878939" target="_blank">
     <img src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" alt="discord" width="34" height="auto"/>
   </a>
   <a href="https://wearedevs.net/profile?uid=71254" target="_blank">
@@ -32,7 +32,7 @@
   <a href="https://v3rmillion.net/member.php?action=profile&uid=2724664" target="_blank">
     <img src="https://cdn.wearedevs.net/images/icons/v3rm.png" alt="v3rm" width="34" height="auto"/>
   </a>
-  <a href="im lazy to put here lol" target="_blank">
+  <a href="https://www.youtube.com/channel/UCaon3lIQ8XiG9Ol9au4PmNw" target="_blank">
     <img src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5295-youtube-i_102568.png" alt="youtube" width="34" height="auto"/>
   </a>
   <a href="https://www.reddit.com/user/UnfairRoblox91" target="_blank">
