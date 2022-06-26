@@ -20,6 +20,9 @@
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="css" width="34" height="auto"/>
   </a>
+  <a href="https://sass-lang.com/" target="_blank">
+    <img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="sass" width="34" height="auto"/>
+  </a>
 <p>
 <h3 align="left">Socials:</h3>
 <p align="left">
