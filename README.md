@@ -17,11 +17,14 @@
   <a href="https://helpx.adobe.com/th_th/photoshop/tutorials.html" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="34" height="auto"/>
   </a>
+  <a href="https://www.w3schools.com/html/" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" alt="html" width="34" height="auto"/>
+  </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="css" width="34" height="auto"/>
   </a>
   <a href="https://www.javascript.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="css" width="34" height="auto"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javas" width="34" height="auto"/>
   </a>
   <a href="https://sass-lang.com/" target="_blank">
     <img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="sass" width="34" height="auto"/>
