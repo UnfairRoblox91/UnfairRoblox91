@@ -1,11 +1,15 @@
-<h3 align="left">Introduction:</h3>
+## 👋 Welcome to my github
+Hi im `unfair` 🙂
 
-- Hi im unfair 👋
+I like to make `Stuff` 💡
 
-- I like to design ui ⭐
-<h3 align="left">Stuff:</h3>
+<br>
+
+## 🛠️ Skills
+
+### Languages
 <p align="left">
-  <a href="https://www.w3schools.com/cs/index.php" target="_blank">
+<a href="https://www.w3schools.com/cs/index.php" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="34" height="auto"/>
   </a>
   <a href="https://docs.microsoft.com/th-th/visualstudio/xaml-tools/xaml-overview?view=vs-2019" target="_blank">
@@ -13,9 +17,6 @@
   </a>
   <a href="https://www.lua.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/640px-Lua-Logo.svg.png" alt="lua" width="34" height="auto"/>
-  </a>
-  <a href="https://helpx.adobe.com/th_th/photoshop/tutorials.html" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="34" height="auto"/>
   </a>
   <a href="https://www.w3schools.com/html/" target="_blank">
     <img src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" alt="html" width="34" height="auto"/>
@@ -29,7 +30,28 @@
   <a href="https://sass-lang.com/" target="_blank">
     <img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="sass" width="34" height="auto"/>
   </a>
+<p>
+
+### Framework
+<p align="left">
+ <a href="https://docs.microsoft.com/en-us/visualstudio/designers/getting-started-with-wpf?view=vs-2022" target="_blank">
+    <img src="https://int-24.com/uploads/wpf.png" alt="wpf" width="34" height="auto"/>
+  </a>
+<p>
+
+### Tools
+<p align="left">
+ <a href="https://helpx.adobe.com/th_th/photoshop/tutorials.html" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="34" height="auto"/>
+  </a>
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667" alt="figma" width="34" height="auto"/>
   </a>
 <p>
+
+<br>
+
+## 📊 Github stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=UnfairRoblox91&show_icons=true&theme=rose_pine">
+<img src="https://komarev.com/ghpvc/?username=UnfairRoblox91&color=191724">
