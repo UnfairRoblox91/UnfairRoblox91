@@ -3,7 +3,7 @@
 - Hi im unfair 👋
 
 - I like to design ui ⭐
-<h3 align="left">Stuff I Do:</h3>
+<h3 align="left">Stuff:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cs/index.php" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="34" height="auto"/>
