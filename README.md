@@ -3,6 +3,8 @@ Hi im `Unfair` 🙂
 
 I like to make `Stuff` 💡
 
+Im learning `C` and `C++` 📙
+
 ## 🛠️ Skills
 
 ### Languages
