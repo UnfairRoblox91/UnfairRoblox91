@@ -1,5 +1,5 @@
 ## 👋 Welcome to my github
-Hi im `unfair` 🙂
+Hi im `Unfair` 🙂
 
 I like to make `Stuff` 💡
 
@@ -54,6 +54,5 @@ I like to make `Stuff` 💡
 <p>
 
 ## 📊 Github stats
-
 <img src="https://github-readme-stats.vercel.app/api?username=UnfairRoblox91&show_icons=true&theme=rose_pine">
 <img src="https://komarev.com/ghpvc/?username=UnfairRoblox91&color=191724">
