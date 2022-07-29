@@ -45,6 +45,12 @@ I like to make `Stuff` 💡
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667" alt="figma" width="34" height="auto"/>
   </a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank">
+    <img src="https://static.wikia.nocookie.net/logopedia/images/6/62/Brand_Visual_Studio_Win_2019.svg/revision/latest/scale-to-width-down/250?cb=20191019024151" alt="vs" width="34" height="auto"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vsc" width="34" height="auto"/>
+  </a>
 <p>
 
 ## 📊 Github stats
