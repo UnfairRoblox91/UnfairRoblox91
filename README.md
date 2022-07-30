@@ -3,7 +3,7 @@ Hi im `Unfair` 🙂
 
 I like to make `Stuff` 💡
 
-Im learning `C` and `C++` 📙
+Im learning `C++` 📙
 
 ## 🛠️ Skills
 
@@ -11,6 +11,9 @@ Im learning `C` and `C++` 📙
 <p align="left">
 <a href="https://www.w3schools.com/cs/index.php" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="34" height="auto"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="cee" width="34" height="auto"/>
   </a>
   <a href="https://docs.microsoft.com/th-th/visualstudio/xaml-tools/xaml-overview?view=vs-2019" target="_blank">
     <img src="https://cdn.discordapp.com/attachments/780958889356820510/824814012679716885/output-onlinepngtools1.png" alt="xaml" width="34" height="auto"/>
