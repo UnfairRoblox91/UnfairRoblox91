@@ -3,7 +3,7 @@ Hi im `Unfair` 🙂
 
 I like to make `Stuff` 💡
 
-Im learning `C++` 📙
+Im learning `Nothing` 📙
 
 ## 🛠️ Skills
 
