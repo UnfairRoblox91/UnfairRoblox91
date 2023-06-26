@@ -7,7 +7,7 @@ Im learning `C++` 📙
 
 ## 🛠️ Skills
 
-### Languages
+### Stuffz
 <p align="left">
 <a href="https://www.w3schools.com/cs/index.php" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="34" height="auto"/>
